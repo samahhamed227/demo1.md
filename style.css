@@ -1,0 +1,17 @@
+img{
+    height: 250px;
+        width: 250px;
+    
+    }
+    
+    li{
+        display: inline;
+        color: black;
+        padding: 100px;
+        font-size:larger;
+    
+    }
+    nav{
+        
+        background-color:lightsteelblue;
+    }
